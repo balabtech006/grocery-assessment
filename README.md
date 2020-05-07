@@ -15,7 +15,7 @@ https://www.sitepoint.com/crud-app-react-redux-feathersjs/
 npm install
 
 # Install backend dependencies
-cd backend
+cd backend-nodejs
 npm install
 ```
 
@@ -26,7 +26,7 @@ Ensure you have mongodb installed in your system and that it is running
 Start the backend server first:
 
 ```bash
-cd react-grocery-manager/backend
+cd react-grocery-manager/backend-nodejs
 npm start
 ```
 This will run the backend server at localhost:3030. If all is working well, you should be able to access the url http://localhost:3030/grocery from your Browser or Postman
