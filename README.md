@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This a basic crud react-redux-featherjs application for managing contacts. It currently uses MongoDB for the database and FeathersJS for the REST API server.
+This a basic crud react-redux-featherjs application for managing grocery items. It currently uses MongoDB for the database and FeathersJS for the REST API server.
 
 https://www.sitepoint.com/crud-app-react-redux-feathersjs/
 
